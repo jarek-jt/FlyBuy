@@ -1,0 +1,1 @@
+Here or in separated project implementation for another EvenStore can be placed.
