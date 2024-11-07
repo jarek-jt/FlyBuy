@@ -1,4 +1,4 @@
-using EventStore.EventStoreDb;
+using MyEventStore.EventStoreDb;
 using Orders;
 using Orders.Service;
 

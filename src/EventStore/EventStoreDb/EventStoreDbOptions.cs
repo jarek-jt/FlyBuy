@@ -1,4 +1,4 @@
-﻿namespace EventStore.EventStoreDb;
+﻿namespace MyEventStore.EventStoreDb;
 
 public sealed class EventStoreDbOptions
 {

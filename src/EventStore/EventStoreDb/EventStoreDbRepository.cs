@@ -3,7 +3,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization.Metadata;
 using EventStore.Client;
 
-namespace EventStore.EventStoreDb;
+namespace MyEventStore.EventStoreDb;
 
 public class EventStoreDbRepository : IEventStoreRepository
 {

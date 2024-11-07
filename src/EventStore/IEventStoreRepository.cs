@@ -1,4 +1,4 @@
-namespace EventStore;
+namespace MyEventStore;
 
 public interface IEventStoreRepository
 {

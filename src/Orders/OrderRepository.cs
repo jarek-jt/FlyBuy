@@ -2,6 +2,7 @@
 using System.Text.Json.Serialization.Metadata;
 using EventStore;
 using Microsoft.Extensions.Logging.Abstractions;
+using MyEventStore;
 using Orders.Core;
 using Orders.Domain;
 using Orders.Events;
