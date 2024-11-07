@@ -6,7 +6,7 @@ public abstract class Aggregate
 {
     public Guid Id { get; protected set; } = default!;
 
-    public virtual void Apply(Event orderEvent)
+    public abstract void Apply(Event orderEvent)
     {
     }
 }
